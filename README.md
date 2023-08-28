@@ -1,5 +1,13 @@
 ### Olá 👋
 
+Aqui você encontrará meus projetos pessoais com foco no desenvolvimento FrontEnd e projetos desenvolvidos para a faculdade.
+Atualmente, estou aprendendo JS e Phyton, e tenho conhecimentos em HTML, CSS e linguagem C. 
+
+Como entrar em contato comigo: 
+<a href="https://www.linkedin.com/in/larissa-pinheiro-dev/">LinkedIn</a>
+
+
+<!--
 Sou 
 
 
