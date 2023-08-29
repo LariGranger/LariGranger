@@ -4,9 +4,9 @@ Aqui você encontrará meus projetos pessoais com foco no desenvolvimento FrontE
 Atualmente, estou aprendendo JS e Phyton.
 </br></br>
 Como entrar em contato comigo: </br>
-<a target="_blank" href="https://www.linkedin.com/in/larissa-pinheiro-dev/">LinkedIn</a>
-<a target="_blank" href="https://www.instagram.com/_larisvp/">Instagram</a>
-<a target="_blank" href="https://wa.me/61996378644">Whatsapp</a>
+<a target="blank" href="https://www.linkedin.com/in/larissa-pinheiro-dev/">LinkedIn</a>
+<a target="blank" href="https://www.instagram.com/_larisvp/">Instagram</a>
+<a target="blank" href="https://wa.me/61996378644">Whatsapp</a>
 
 <!--
 https://github.com/devicons/devicon/tree/master/icons
