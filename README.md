@@ -2,13 +2,15 @@
 
 Aqui você encontrará meus projetos pessoais com foco no desenvolvimento FrontEnd e projetos desenvolvidos para a faculdade.
 Atualmente, estou aprendendo JS e Phyton.
-
-<a href="https://github.com/LariGranger/github-readme-stats">
+<div>
+  <a href="https://github.com/LariGranger/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LariGranger&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/LariGranger/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LariGranger&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>
+
 
 ##
 
