@@ -1,22 +1,17 @@
 <h2 align="left"> 💜 Olá, meu nome é Larissa! </h2>
 
-<img src="logo.png" alt="ilustração, feita por IA, de uma menina mexendo em um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="logo.png" alt="ilustração, feita por IA, de uma menina mexendo em um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 
-<p align="left"> 
-  <strong>No mundo dos dados</strong> <br>
-  -Apaixonada por resolução de problemas e um bom café <br>
-  -Estudante de Sistemas para Internet <br>
-  -Estagiária de Análise de Dados <br>
-  -Aprimorando meus conhecimentos em <strong>Python</strong> e <strong>JavaScript</strong>
-</p>
+<p align="justify"> 
+  Sempre fui apaixonada por desmontar e montar coisas, por resolver problemas e fazer projetos. Com isso, me encantei com o mundo da tecnologia, onde a resolução de problemas e um café, são sempre bem vindos, rs.
+  <br>Atualmente, faço faculdade de Sistemas para Internet, onde me encantei com o <strong>desenvolvimento FrontEnd</strong>, e faço estágio em de <strong>ciência de dados</strong>, área
+  que tem ganhado meu coração. 
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, C, PYTHON, JAVASCRIPT, ARDUINO
-</p>
-
-<p align="left">
-  💼 Ferramentas: VSCODE, GIT, GITHUB, QLIK SENSE, JUPYTER NOTEBOOK
+  🦄 Linguagens: 
+  <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JAVASCRIPT"/></code>
+  <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="PYTHON"/></code>
 </p>
 
 <p align="left">
@@ -34,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-<br> <br> <br> <br> 
+<br> <br>
 
 ##
 <div align=center>
@@ -48,56 +43,32 @@
 
 ## Minhas Skills
 
-*Aplicações e dados*
+<h4>💜 Desenvolvimento</h4>
+<!--*Aplicações e dados*-->
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JAVASCRIPT"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="PYTHON"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code> 
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code> 
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/></code> 
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title="Arduino"/></code> 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lari-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
-  <img align="center" alt="Lari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-  <img align="center" alt="Lari-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Lari-Arduino" height="30" width="40" src="https://github.com/LariGranger/LariGranger/assets/116392603/2afb7b34-d22e-4ca8-9c39-420964e751cd">
-</div>
 
-*Utilidades*
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-*DevOps*
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-
-*Ferramentas de desenvolvimento*
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
+<h4>💼 Ferramentas</h4>
+<!--espaço-->
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCODE"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GITHUB"/></code>
+<code><img width="30px" src="https://www.svgrepo.com/show/354242/qlik.svg" title="QLIK SENSE"></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="JUPYTER NOTEBOOK"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="FIGMA"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="NOTION"/></code>
 
 <!--
+https://devicon.dev/
 https://github.com/devicons/devicon/tree/master/icons
 https://github.com/anuraghazra/github-readme-stats
 -->
-
 <!--
 ![Snake animation](https://github.com/LariGranger/LariGranger/blob/output/github-contribution-grid-snake.svg)
 -->
