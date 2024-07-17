@@ -5,7 +5,7 @@
 
 <p align="justify"> 
   Sempre fui apaixonada por desmontar e montar coisas, por resolver problemas e fazer projetos. Com isso, me encantei com o mundo da tecnologia, onde a resolução de problemas e um café, são sempre bem vindos, rs.
-  <br>Atualmente, faço faculdade de Sistemas para Internet, onde me encantei com o <strong>desenvolvimento FrontEnd</strong>, e faço estágio em de <strong>ciência de dados</strong>, área
+  <br>Atualmente, faço faculdade de Sistemas para Internet, onde me encantei com o <strong>desenvolvimento FrontEnd</strong>, e faço estágio de <strong>ciência de dados</strong>, área
   que tem ganhado meu coração. 
 
 <p align="left">
